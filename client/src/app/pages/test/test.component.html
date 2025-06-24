@@ -1,0 +1,88 @@
+<div class="container my-4">
+  @if (test$ | async; as test) {
+  <div class="text-center mb-4">
+    <h2 class="mb-3">{{ test.title }}</h2>
+    <img
+      *ngIf="test.type == 'task1'"
+      [src]="test.image"
+      class="img-fluid rounded"
+      style="max-width: 600px"
+      alt="Test image"
+    />
+    <p *ngIf="test.type == 'task2'" class="fw-bold fs-5">
+      {{ test.question }}
+    </p>
+  </div>
+
+  @if (!test.solved) {
+  <form
+    [formGroup]="answerForm"
+    (ngSubmit)="onSubmit(test.question)"
+    class="mb-4"
+  >
+    <div class="row">
+      <div class="col-12 mb-3">
+        <div class="mb-2">
+          <span
+            class="badge rounded-pill text-bg-info p-2 m-1"
+            style="font-size: 1rem"
+            >Words Count: {{ wordCount }}</span
+          >
+          <span
+            [ngClass]="{
+              'text-bg-danger': isTimeExceeded,
+              'badge rounded-pill p-2 m-1': true,
+              'text-bg-info': !isTimeExceeded,
+            }"
+            style="font-size: 1rem"
+          >
+            Timer: {{ minutes }}:{{ seconds | number : "2.0" }}
+          </span>
+        </div>
+        <textarea
+          id="userAnswer"
+          formControlName="userAnswer"
+          class="form-control"
+          placeholder="Enter your answer (up to 150 words)"
+          (input)="countWords()"
+          rows="12"
+          style="width: 100%"
+          required
+        ></textarea>
+      </div>
+    </div>
+    <button
+      type="submit"
+      class="btn btn-primary"
+      [disabled]="answerForm.invalid"
+    >
+      Submit Answer
+    </button>
+  </form>
+  } @else {
+  <div class="card mb-4">
+    <div class="card-body">
+      <h5 class="card-title">Grade</h5>
+      <p class="card-text fs-4">{{ test.total }}</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 mb-4">
+      <h4>Your Answer</h4>
+      <div class="card">
+        <div class="card-body">
+          <p class="card-text">{{ test.userAnswer }}</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6 mb-4">
+      <h4>AI Note</h4>
+      <div class="card">
+        <div class="card-body">
+          <p class="card-text">{{ test.enhancedAnswer }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  } }
+</div>

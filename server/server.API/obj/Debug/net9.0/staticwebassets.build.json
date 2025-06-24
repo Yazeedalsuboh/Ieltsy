@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "7pdm8cD+91bZASQWUdHVZqCkxEBrCIgkXn2xhP7MYcE=",
+  "Source": "server.API",
+  "BasePath": "_content/server.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "server.API\\wwwroot",
+      "Source": "server.API",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\",
+      "BasePath": "_content/server.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\test1.png",
+      "SourceId": "server.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\",
+      "BasePath": "_content/server.API",
+      "RelativePath": "uploads/test1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ihxbzl6nfi",
+      "Integrity": "RhVCYi9OdFAzBRpzm5Og6qqJJS1g7ttwojMUisZj2Ec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\test1.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test2.png",
+      "SourceId": "server.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\",
+      "BasePath": "_content/server.API",
+      "RelativePath": "uploads/Test2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fnkn0sk1r1",
+      "Integrity": "tcdq6LLt99jrqT/T88uw4UBCHX/1XdR5qbqDo0BsYe4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Test2.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test3.png",
+      "SourceId": "server.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\",
+      "BasePath": "_content/server.API",
+      "RelativePath": "uploads/Test3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "turia18wqz",
+      "Integrity": "hcvehQBPxY0KoAnFINZi/HqemZx9DpUiZm7ba0+Y9h8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Test3.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test4.png",
+      "SourceId": "server.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\",
+      "BasePath": "_content/server.API",
+      "RelativePath": "uploads/Test4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nh3f9lnrp4",
+      "Integrity": "awxluV+b3iJX62nCPo0PRONkIOp8oQOy7UmTA/vLcE0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Test4.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test5.png",
+      "SourceId": "server.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\",
+      "BasePath": "_content/server.API",
+      "RelativePath": "uploads/Test5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6zybczph1l",
+      "Integrity": "LrJfwSZTHD/twGmUPM7bkGdkgXxK8yOO9G1h754+Jj8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Test5.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/test1.ihxbzl6nfi.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\test1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RhVCYi9OdFAzBRpzm5Og6qqJJS1g7ttwojMUisZj2Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 13:52:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ihxbzl6nfi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/test1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RhVCYi9OdFAzBRpzm5Og6qqJJS1g7ttwojMUisZj2Ec="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/test1.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\test1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RhVCYi9OdFAzBRpzm5Og6qqJJS1g7ttwojMUisZj2Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 13:52:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RhVCYi9OdFAzBRpzm5Og6qqJJS1g7ttwojMUisZj2Ec="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Test2.fnkn0sk1r1.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tcdq6LLt99jrqT/T88uw4UBCHX/1XdR5qbqDo0BsYe4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fnkn0sk1r1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Test2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tcdq6LLt99jrqT/T88uw4UBCHX/1XdR5qbqDo0BsYe4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Test2.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "305477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tcdq6LLt99jrqT/T88uw4UBCHX/1XdR5qbqDo0BsYe4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:05:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tcdq6LLt99jrqT/T88uw4UBCHX/1XdR5qbqDo0BsYe4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Test3.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hcvehQBPxY0KoAnFINZi/HqemZx9DpUiZm7ba0+Y9h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:12:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hcvehQBPxY0KoAnFINZi/HqemZx9DpUiZm7ba0+Y9h8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Test3.turia18wqz.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250434"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hcvehQBPxY0KoAnFINZi/HqemZx9DpUiZm7ba0+Y9h8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:12:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "turia18wqz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Test3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hcvehQBPxY0KoAnFINZi/HqemZx9DpUiZm7ba0+Y9h8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Test4.nh3f9lnrp4.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "342796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"awxluV+b3iJX62nCPo0PRONkIOp8oQOy7UmTA/vLcE0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:13:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nh3f9lnrp4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Test4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-awxluV+b3iJX62nCPo0PRONkIOp8oQOy7UmTA/vLcE0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Test4.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "342796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"awxluV+b3iJX62nCPo0PRONkIOp8oQOy7UmTA/vLcE0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:13:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-awxluV+b3iJX62nCPo0PRONkIOp8oQOy7UmTA/vLcE0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Test5.6zybczph1l.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "275828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LrJfwSZTHD/twGmUPM7bkGdkgXxK8yOO9G1h754+Jj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:26:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6zybczph1l"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Test5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LrJfwSZTHD/twGmUPM7bkGdkgXxK8yOO9G1h754+Jj8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Test5.png",
+      "AssetFile": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "275828"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LrJfwSZTHD/twGmUPM7bkGdkgXxK8yOO9G1h754+Jj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Jun 2025 14:26:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LrJfwSZTHD/twGmUPM7bkGdkgXxK8yOO9G1h754+Jj8="
+        }
+      ]
+    }
+  ]
+}

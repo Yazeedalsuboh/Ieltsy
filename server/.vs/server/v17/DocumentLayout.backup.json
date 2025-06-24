@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Infrastructure\\Migrations\\20250624165316_seedingerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server.Infrastructure\\Migrations\\20250624165316_seedingerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B813BB5-1445-40A7-B8C3-40AA9D9C8F83}|server.Infrastructure\\server.Infrastructure.csproj|c:\\users\\user\\desktop\\y\\coding\\projects\\ieltsy\\ieltsy\\server\\server.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B813BB5-1445-40A7-B8C3-40AA9D9C8F83}|server.Infrastructure\\server.Infrastructure.csproj|solutionrelative:server.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9100C65B-7591-4E69-B770-41BC283C0CF2}|server.API\\server.API.csproj|c:\\users\\user\\desktop\\y\\coding\\projects\\ieltsy\\ieltsy\\server\\server.api\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9100C65B-7591-4E69-B770-41BC283C0CF2}|server.API\\server.API.csproj|solutionrelative:server.api\\controllers\\testscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE94D50-3700-44B6-B090-726B107E03A8}|server.Application\\server.Application.csproj|c:\\users\\user\\desktop\\y\\coding\\projects\\ieltsy\\ieltsy\\server\\server.application\\dtos\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE94D50-3700-44B6-B090-726B107E03A8}|server.Application\\server.Application.csproj|solutionrelative:server.application\\dtos\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE94D50-3700-44B6-B090-726B107E03A8}|server.Application\\server.Application.csproj|c:\\users\\user\\desktop\\y\\coding\\projects\\ieltsy\\ieltsy\\server\\server.application\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE94D50-3700-44B6-B090-726B107E03A8}|server.Application\\server.Application.csproj|solutionrelative:server.application\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE94D50-3700-44B6-B090-726B107E03A8}|server.Application\\server.Application.csproj|c:\\users\\user\\desktop\\y\\coding\\projects\\ieltsy\\ieltsy\\server\\server.application\\dtos\\gettestsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE94D50-3700-44B6-B090-726B107E03A8}|server.Application\\server.Application.csproj|solutionrelative:server.application\\dtos\\gettestsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE94D50-3700-44B6-B090-726B107E03A8}|server.Application\\server.Application.csproj|c:\\users\\user\\desktop\\y\\coding\\projects\\ieltsy\\ieltsy\\server\\server.application\\interfaces\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE94D50-3700-44B6-B090-726B107E03A8}|server.Application\\server.Application.csproj|solutionrelative:server.application\\interfaces\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3920AB7-FEFD-4BC6-8C86-D5052928EED8}|server.Domain\\server.Domain.csproj|c:\\users\\user\\desktop\\y\\coding\\projects\\ieltsy\\ieltsy\\server\\server.domain\\interfaces\\itestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3920AB7-FEFD-4BC6-8C86-D5052928EED8}|server.Domain\\server.Domain.csproj|solutionrelative:server.domain\\interfaces\\itestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B813BB5-1445-40A7-B8C3-40AA9D9C8F83}|server.Infrastructure\\server.Infrastructure.csproj|c:\\users\\user\\desktop\\y\\coding\\projects\\ieltsy\\ieltsy\\server\\server.infrastructure\\repo\\testrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B813BB5-1445-40A7-B8C3-40AA9D9C8F83}|server.Infrastructure\\server.Infrastructure.csproj|solutionrelative:server.infrastructure\\repo\\testrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE94D50-3700-44B6-B090-726B107E03A8}|server.Application\\server.Application.csproj|c:\\users\\user\\desktop\\y\\coding\\projects\\ieltsy\\ieltsy\\server\\server.application\\dtos\\typeenumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE94D50-3700-44B6-B090-726B107E03A8}|server.Application\\server.Application.csproj|solutionrelative:server.application\\dtos\\typeenumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/IeltsyDB/True/SqlTable/dbo.Tests.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3920AB7-FEFD-4BC6-8C86-D5052928EED8}|server.Domain\\server.Domain.csproj|c:\\users\\user\\desktop\\y\\coding\\projects\\ieltsy\\ieltsy\\server\\server.domain\\entities\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3920AB7-FEFD-4BC6-8C86-D5052928EED8}|server.Domain\\server.Domain.csproj|solutionrelative:server.domain\\entities\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3920AB7-FEFD-4BC6-8C86-D5052928EED8}|server.Domain\\server.Domain.csproj|c:\\users\\user\\desktop\\y\\coding\\projects\\ieltsy\\ieltsy\\server\\server.domain\\enums\\typeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3920AB7-FEFD-4BC6-8C86-D5052928EED8}|server.Domain\\server.Domain.csproj|solutionrelative:server.domain\\enums\\typeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\Controllers\\TestsController.cs",
+              "RelativeDocumentMoniker": "server.API\\Controllers\\TestsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\Controllers\\TestsController.cs",
+              "RelativeToolTip": "server.API\\Controllers\\TestsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAlwCUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T00:33:51.849Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250624165316_seedingerror.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Infrastructure\\Migrations\\20250624165316_seedingerror.cs",
+              "RelativeDocumentMoniker": "server.Infrastructure\\Migrations\\20250624165316_seedingerror.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Infrastructure\\Migrations\\20250624165316_seedingerror.cs",
+              "RelativeToolTip": "server.Infrastructure\\Migrations\\20250624165316_seedingerror.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:53:17.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Application\\Interfaces\\ITestService.cs",
+              "RelativeDocumentMoniker": "server.Application\\Interfaces\\ITestService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Application\\Interfaces\\ITestService.cs",
+              "RelativeToolTip": "server.Application\\Interfaces\\ITestService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:23:29.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Application\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "server.Application\\Services\\TestService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Application\\Services\\TestService.cs",
+              "RelativeToolTip": "server.Application\\Services\\TestService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAlwDUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:23:26.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITestRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Domain\\Interfaces\\ITestRepo.cs",
+              "RelativeDocumentMoniker": "server.Domain\\Interfaces\\ITestRepo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Domain\\Interfaces\\ITestRepo.cs",
+              "RelativeToolTip": "server.Domain\\Interfaces\\ITestRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:25:51.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Infrastructure\\Repo\\TestRepo.cs",
+              "RelativeDocumentMoniker": "server.Infrastructure\\Repo\\TestRepo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Infrastructure\\Repo\\TestRepo.cs",
+              "RelativeToolTip": "server.Infrastructure\\Repo\\TestRepo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:26:03.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TypeEnumDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Application\\Dtos\\TypeEnumDto.cs",
+              "RelativeDocumentMoniker": "server.Application\\Dtos\\TypeEnumDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Application\\Dtos\\TypeEnumDto.cs",
+              "RelativeToolTip": "server.Application\\Dtos\\TypeEnumDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:21:18.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Tests [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/IeltsyDB/True/SqlTable/dbo.Tests.sql",
+              "ToolTip": "dbo.Tests [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-24T14:16:13.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "server.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "server.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAlwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:01:08.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetTestsDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Application\\Dtos\\GetTestsDto.cs",
+              "RelativeDocumentMoniker": "server.Application\\Dtos\\GetTestsDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Application\\Dtos\\GetTestsDto.cs",
+              "RelativeToolTip": "server.Application\\Dtos\\GetTestsDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:00:49.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Application\\Dtos\\TestDto.cs",
+              "RelativeDocumentMoniker": "server.Application\\Dtos\\TestDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Application\\Dtos\\TestDto.cs",
+              "RelativeToolTip": "server.Application\\Dtos\\TestDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:00:27.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Domain\\Entities\\Test.cs",
+              "RelativeDocumentMoniker": "server.Domain\\Entities\\Test.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Domain\\Entities\\Test.cs",
+              "RelativeToolTip": "server.Domain\\Entities\\Test.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:50:25.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Domain\\Enums\\TypeEnum.cs",
+              "RelativeDocumentMoniker": "server.Domain\\Enums\\TypeEnum.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.Domain\\Enums\\TypeEnum.cs",
+              "RelativeToolTip": "server.Domain\\Enums\\TypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:57:44.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

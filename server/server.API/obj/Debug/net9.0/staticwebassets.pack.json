@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test2.png",
+      "PackagePath": "staticwebassets\\uploads\\Test2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test3.png",
+      "PackagePath": "staticwebassets\\uploads\\Test3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test4.png",
+      "PackagePath": "staticwebassets\\uploads\\Test4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\Test5.png",
+      "PackagePath": "staticwebassets\\uploads\\Test5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\y\\Coding\\Projects\\Ieltsy\\Ieltsy\\server\\server.API\\wwwroot\\uploads\\test1.png",
+      "PackagePath": "staticwebassets\\uploads\\test1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.server.API.props",
+      "PackagePath": "build\\server.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.server.API.props",
+      "PackagePath": "buildMultiTargeting\\server.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.server.API.props",
+      "PackagePath": "buildTransitive\\server.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.server.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.server.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

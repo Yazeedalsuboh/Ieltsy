@@ -1,0 +1,71 @@
+[
+  {
+    "ContainingType": "server.API.Controllers.TestsController",
+    "Method": "GetTests",
+    "RelativePath": "api/Tests",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Type",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server.API.Controllers.TestsController",
+    "Method": "GetTestAsync",
+    "RelativePath": "api/Tests/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server.API.Controllers.TestsController",
+    "Method": "SubmitAnswerAsync",
+    "RelativePath": "api/Tests/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "server.Application.Dtos.AnswerTestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server.API.Controllers.TestsController",
+    "Method": "RetakeTestAsync",
+    "RelativePath": "api/Tests/retake/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
